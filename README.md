@@ -178,3 +178,23 @@ This project demonstrates how SQL is used to extract insights from relational da
 - Business Intelligence Analyst  
 
 The project showcases the ability to **retrieve, analyse, and combine structured data to support business decision-making**.
+
+## Examples of Codes ran
+
+### City with the Lowest Population
+<img width="459" height="283" alt="image" src="https://github.com/user-attachments/assets/b2d981f2-8fa7-433d-9d49-90f81d38962d" />
+
+### Capital of Spain
+<img width="459" height="227" alt="image" src="https://github.com/user-attachments/assets/06639103-d394-42f4-b521-bfb498be8cc3" />
+
+### Average Population by Country
+<img width="459" height="324" alt="image" src="https://github.com/user-attachments/assets/88dd1f6e-a043-486f-a5cf-a5efdb907ef9" />
+
+### Countries with Low Population Density
+<img width="459" height="264" alt="image" src="https://github.com/user-attachments/assets/313b5f46-e607-4649-b0f6-eb1bc6907e1c" />
+
+
+
+
+
+
