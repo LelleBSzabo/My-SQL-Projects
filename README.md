@@ -195,6 +195,7 @@ The project showcases the ability to **retrieve, analyse, and combine structured
 ### Countries with Low Population Density
 <img width="459" height="264" alt="image" src="https://github.com/user-attachments/assets/313b5f46-e607-4649-b0f6-eb1bc6907e1c" />
 
+---
 
 
 
