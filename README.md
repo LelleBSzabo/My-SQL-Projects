@@ -179,6 +179,8 @@ This project demonstrates how SQL is used to extract insights from relational da
 
 The project showcases the ability to **retrieve, analyse, and combine structured data to support business decision-making**.
 
+---
+
 ## Examples of Codes ran
 
 ### City with the Lowest Population
